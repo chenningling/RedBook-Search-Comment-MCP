@@ -5,7 +5,7 @@
 这是一款基于 Playwright 开发的小红书自动搜索和评论工具，作为 MCP Server，可通过特定配置接入 MCP Client（如Claude for Desktop），帮助用户自动完成登录小红书、搜索关键词、获取笔记内容及发布智能评论等操作。
 
 ### 注：[Redbook-Search-Comment-MCP2.0](https://github.com/chenningling/Redbook-Search-Comment-MCP2.0)已经发布！直接点击前往使用即可！
-2.0主要优化内容如下：
+**2.0主要优化内容如下：**
 - 优化了搜索笔记时，标题不显示的问题
 - 新增了多类获取笔记的方法，确保能完整获取笔记内容
 - 重构了评论功能，利用MCP客户端（如Claude）的AI能力生成更自然的评论
