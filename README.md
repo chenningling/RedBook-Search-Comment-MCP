@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/chenningling-redbook-search-comment-mcp-badge.png)](https://mseep.ai/app/chenningling-redbook-search-comment-mcp)
+
 # 小红书自动搜索评论工具（MCP Server）
 
 > 本项目基于 [JonaFly/RednoteMCP](https://github.com/JonaFly/RednoteMCP.git) 并结合我自己的使用经验，进行优化和改进（by windsurf）。在此向原作者表示衷心的感谢！
